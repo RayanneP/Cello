@@ -1,5 +1,7 @@
 
-# Atividade de criação de um site utilizando a plataforma WordPress, conforme as instruções propostas. Escolhi desenvolver o site da Cello, uma loja fictícia especializada na venda e aluguel de instrumentos musicais. 🎻🎸🎹
+# Atividade de criação de um site utilizando a plataforma WordPress, conforme as instruções propostas. 
+
+## Escolhi desenvolver o site da Cello, uma loja fictícia especializada na venda e aluguel de instrumentos musicais. 🎻🎸🎹
 
 Tema personalizado:
 
